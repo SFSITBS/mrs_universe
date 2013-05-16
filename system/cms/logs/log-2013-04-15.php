@@ -1,0 +1,6 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-04-15 08:37:28 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\_idev\_SYSTEMS\inv_draft2\system\cms\libraries\Simplepie.php 4393
+ERROR - 2013-04-15 11:19:21 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\MRS_0415\src\system\cms\libraries\Simplepie.php 4393
+ERROR - 2013-04-15 11:19:24 --> Query error: Table 'sfs_log.default_material_requests_statuses' doesn't exist
+ERROR - 2013-04-15 11:24:43 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\MRS_0415\src\system\cms\libraries\Simplepie.php 4393

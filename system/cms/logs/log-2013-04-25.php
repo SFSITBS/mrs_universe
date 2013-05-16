@@ -1,0 +1,25 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-04-25 04:02:56 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\xampp\htdocs\mrs2\system\codeigniter\database\DB_active_rec.php 438
+ERROR - 2013-04-25 04:02:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+ERROR - 2013-04-25 04:05:40 --> Severity: Notice  --> Undefined variable: categories C:\xampp\htdocs\mrs2\addons\default\modules\approvediv\controllers\admin.php 101
+ERROR - 2013-04-25 04:11:39 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\mrs2\system\cms\libraries\Simplepie.php 4393
+ERROR - 2013-04-25 04:11:55 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:11:55 --> Severity: Notice  --> Undefined variable: category C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:11:55 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:00 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:00 --> Severity: Notice  --> Undefined variable: category C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:00 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:08 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:08 --> Severity: Notice  --> Undefined variable: category C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:08 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:14 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:14 --> Severity: Notice  --> Undefined variable: category C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:12:14 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:13:16 --> Severity: Notice  --> Use of undefined constant php - assumed 'php' C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:13:16 --> Severity: Notice  --> Undefined variable: category C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:13:16 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\mrs2\addons\default\modules\materialrequest\views\admin\add_items.php 127
+ERROR - 2013-04-25 04:31:24 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\mrs2\system\cms\libraries\Simplepie.php 4393
+ERROR - 2013-04-25 04:31:31 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\mrs2\system\cms\libraries\Simplepie.php 4393
+ERROR - 2013-04-25 08:50:40 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\mrs2\system\cms\libraries\Simplepie.php 4393
+ERROR - 2013-04-25 08:56:42 --> Severity: Warning  --> fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to ssl://www.pyrocms.com:443 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) C:\xampp\htdocs\mrs2\system\cms\libraries\Simplepie.php 4393
